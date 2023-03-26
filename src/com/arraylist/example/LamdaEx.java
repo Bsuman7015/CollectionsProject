@@ -34,6 +34,6 @@ public class LamdaEx {
 		List<String> list= Arrays.asList("apple","banana","oranges","melons","grapes");
 		list.sort((s1,s2)->s1.compareTo(s2));
 		System.out.println(list);
-		System.out.println("HI");
+		System.out.println("Hello");
 	}		
 }
